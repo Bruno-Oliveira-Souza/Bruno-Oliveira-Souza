@@ -1,9 +1,5 @@
-- 👋 Hi, I’m @Bruno-Oliveira-Souza
-- 👀 I’m interested in  me desenvolver como programador Full-Stack
-- 🌱 I’m currently learning  HTML5, CSS3 e JavaScrpit
-- 📫 How to reach me 
+Ola Mundo, Me chamo Bruno Oliveira, tenho 22 anos.
 
-<!---
-Bruno-Oliveira-Souza/Bruno-Oliveira-Souza is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Atualmente estou aprendendo a programar em HTML5, CSS3 e JavaScript, mas meu objetivo é me tornar um desenvolvedor Full-Stack.
+
+Para entrar em contato comigo: 
